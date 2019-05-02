@@ -1,0 +1,17 @@
+.jumbotron {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+
+
+.gif {
+    height: 300px;
+    width: 300px;
+    padding: 3.5%;
+    float: left;
+}
